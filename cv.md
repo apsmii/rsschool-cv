@@ -10,10 +10,13 @@
 I am 17 years old and I am just learning programming.
 
 ## Work experience:
-nothing
+nothing. 
 
 ## Language:
 I study english.
 
 ## Code example:
 document.getElementById("hello").innerHTML = "Hello, world!";
+
+## Skills:
+Nothihg.
